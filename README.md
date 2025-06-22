@@ -32,6 +32,6 @@ git clone https://github.com/seu-usuario/flutter-cotacao-moedas.git
 cd flutter-cotacao-moedas
 ```
 
-## 🔥 AplicaçãoMore funcionando
+## 🔥 Aplicação funcionando
 
-![Detalhes](images/img.gif)
+🎥 [Assista à demonstração do app no Google Drive](https://drive.google.com/file/d/19NHeGLitmjUfEOxuurgSBNnTqSHNQKX4/view?usp=sharing)
